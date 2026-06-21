@@ -2,6 +2,8 @@
 
 A comprehensive IoT system for real-time solar panel soiling detection using multi-sensor fusion and edge AI. This project monitors three solar panels -one kept clean as a reference baseline to quantify soiling-induced efficiency losses in real time.
 
+**Important: There is an issue with charging circuit. So do not replicate this project unless you know electronics well.**
+
 ## Project Overview
 
 SolarSense uses a clean reference panel to cancel out weather effects completely (both panels see the same sky), leaving only soiling-induced losses measurable. The system combines:
@@ -25,3 +27,4 @@ firmware/
 labview/                         # Dashboard VIs for Window
 hardware/                        # PCB schematics and production files
 ```
+
