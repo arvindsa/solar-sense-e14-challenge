@@ -15,6 +15,8 @@ SolarSense uses a clean reference panel to cancel out weather effects completely
 
 **Current Status**: Phase 1 (data collection and live dashboard) complete. Full pipeline implemented but pending end-to-end hardware validation.
 
+Write-up: https://community.element14.com/challenges-projects/design-challenges/on-the-line/b/projects/posts/solarsense---edge-ai-for-optimal-cleaning-of-solar-panels
+
 ## Repository Structure
 
 ```
