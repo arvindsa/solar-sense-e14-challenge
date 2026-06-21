@@ -30,3 +30,4 @@ labview/                         # Dashboard VIs for Window
 hardware/                        # PCB schematics and production files
 ```
 
+Do not use the Python file inside the labview folder. It's only for testing purpose
