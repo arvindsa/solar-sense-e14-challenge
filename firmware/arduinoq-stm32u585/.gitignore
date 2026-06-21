@@ -1,0 +1,17 @@
+build/
+.claude/
+*.o
+*.d
+
+# sandbox environment device files
+.bashrc
+.bash_profile
+.gitconfig
+.gitmodules
+.idea
+.mcp.json
+.profile
+.ripgreprc
+.vscode
+.zprofile
+.zshrc
